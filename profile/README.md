@@ -7,3 +7,5 @@ We encourage you to join and contribute. You can start by adding some interestin
 You can also reach us if you would like to be a curator of your repository here in the Guild.
 
 If you would like to discuss something related to the Guild and Elrond dev stuff, you could try the [Discussions](https://github.com/orgs/ElrondDevGuild/discussions) section.
+
+👉 [What kind of topics are most unclear, and what is the biggest obstacle to starting developing on Elrond?](https://github.com/orgs/ElrondDevGuild/discussions/2)
