@@ -10,3 +10,5 @@ If you would like to discuss something related to the Guild and Elrond dev stuff
 
 👉 [What kind of topics are most unclear, and what is the biggest obstacle to starting developing on Elrond?](https://github.com/orgs/ElrondDevGuild/discussions/2)\
 👉 [Would you like to become a curator of your repository here in the Guild?](https://github.com/orgs/ElrondDevGuild/discussions/4)
+
+**Remember** that we don't have any audits for smart contracts, and we can't provide any guarantees for any tool which will be linked or published here. Please review and understand the code first before using it in production.
