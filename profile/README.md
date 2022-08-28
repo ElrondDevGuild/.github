@@ -4,12 +4,12 @@ The Elrond's Dev Guild is a place where Elrond blockchain developers can collabo
 
 We encourage you to join and contribute. You can start by adding some interesting links to the [awesome-elrond-dev-resources](https://github.com/ElrondDevGuild/awesome-elrond-dev-resources). 
 
-You can also reach us if you would like to be a curator of your repository here in the Guild.
+You can also reach us if you would like to be a curator of your repository here in the Guild 👉 [JOIN!](https://github.com/orgs/ElrondDevGuild/discussions/4)
 
 If you would like to discuss something related to the Guild and Elrond dev stuff, you could try the [Discussions](https://github.com/orgs/ElrondDevGuild/discussions) section.
 
 👉 [Elrond's Dev Scrolls - complementary community based docs](https://elrond-dev-guild.gitbook.io/scrolls/)\
 👉 [What kind of topics are most unclear, and what is the biggest obstacle to starting developing on Elrond?](https://github.com/orgs/ElrondDevGuild/discussions/2)\
-👉 [Would you like to become a curator of your repository here in the Guild?](https://github.com/orgs/ElrondDevGuild/discussions/4)
+👉 [Elrond 'how to' section](https://github.com/orgs/ElrondDevGuild/discussions/categories/how-to)
 
 **Remember** that we don't have any audits for smart contracts, and we can't provide any guarantees for any tool which will be linked or published here. Please review and understand the code first before using it in production.
