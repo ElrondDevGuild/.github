@@ -1,5 +1,7 @@
 ## Hi there! ⚡
 
+**Migration of the organization in progress...** => [✕DevGuild](https://github.com/xdevguild)
+
 The Elrond's Dev Guild is a place where Elrond blockchain developers can collaborate and share their repositories. For now, we only have an awesome list of all dev-related resources. But soon, there will be more practical repositories here. All will be open source. 
 
 We encourage you to join and contribute. You can start by adding some interesting links to the [awesome-elrond-dev-resources](https://github.com/ElrondDevGuild/awesome-elrond-dev-resources). 
