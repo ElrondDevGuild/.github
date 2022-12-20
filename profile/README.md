@@ -1,4 +1,4 @@
 ## Hi there! ⚡
 
-**Migration of the organization in progress...** => [✕DevGuild](https://github.com/xdevguild)
+**The organization migrated here =>** [✕DevGuild](https://github.com/xdevguild)
 
